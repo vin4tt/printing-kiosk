@@ -1,0 +1,6 @@
+{
+  "name": "Smart Print Kiosk",
+  "description": "Production-ready self-service printing kiosk system. Upload from mobile, verify with OTP, pay, and print with real Windows spooler & printer integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
